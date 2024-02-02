@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "author": "Adis Šuvalić 1",
+    "avatar": "ava2.jpg",
+    "datesend": "1",
+    "message": "Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći .Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći.",
+    "images": [
+      {
+        "image": "comments-img-1.jpg"
+      },
+      {
+        "image": "comments-img-1.jpg"
+      },
+      {
+        "image": "comments-img-1.jpg"
+      }
+    ],
+    "likes": "125",
+    "answer": [
+      {
+        "avatar": "ava2.jpg",
+        "name": "Irfan Junuzović",
+        "message": "Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći .Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći.",
+        "likes": "5"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "author": "Adis Šuvalić 2",
+    "avatar": "ava2.jpg",
+    "datesend": "1",
+    "message": "Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći .Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći.",
+    "images": [
+        {
+            "image": "comments-img-1.jpg"
+        }
+    ],
+    "likes": "125",
+    "answer": []
+  },
+  {
+    "id": "3",
+    "author": "Adis Šuvalić 3",
+    "avatar": "ava2.jpg",
+    "datesend": "1",
+    "message": "Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći .Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći.",
+    "images": [
+        {
+            "image": "comments-img-1.jpg"
+        }
+    ],
+    "likes": "125",
+    "answer": []
+  },
+  {
+    "id": "4",
+    "author": "Adis Šuvalić 4",
+    "avatar": "ava2.jpg",
+    "datesend": "1",
+    "message": "Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći .Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći.",
+    "images": [
+        {
+            "image": "comments-img-1.jpg"
+        }
+    ],
+    "likes": "125",
+    "answer": []
+  },
+  {
+    "id": "5",
+    "author": "Adis Šuvalić 5",
+    "avatar": "ava2.jpg",
+    "datesend": "1",
+    "message": "Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći .Vrlo malo vjerujem u sve to, sve te biljke, Erek-X! Kažu da je ženšen koristan i peršun... Ne znam, možda, ali ta sredstva se mogu koristiti za prevenciju, ali za liječenje treba ići doktorima. Sad uopće nije problem naći.",
+    "images": [
+        {
+            "image": "comments-img-1.jpg"
+        }
+    ],
+    "likes": "125",
+    "answer": []
+  }
+]
